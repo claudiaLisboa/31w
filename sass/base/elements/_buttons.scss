@@ -5,9 +5,9 @@ input[type="reset"],
 input[type="submit"] {
 	border: 1px solid;
 	border-color: $color__border-button;
-	border-radius: 3px;
+	border-radius: 6px;
 	background: $color__background-button;
-	color: rgba(0, 0, 0, 0.8);
+	color: rgba(255, 99, 71);
 	line-height: 1;
 	padding: 0.6em 1em 0.4em;
 	text-decoration: none;

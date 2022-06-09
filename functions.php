@@ -9,6 +9,8 @@ if ( ! defined( '_S_VERSION' ) ) {
 
 function mon_31w_setup() {
     add_theme_support('title-tag');
+    add_theme_support('html5',array('search-form'));
+    add_theme_support('custom-background');
 
 }
 
